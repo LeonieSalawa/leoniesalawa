@@ -1,36 +1,43 @@
 module.exports = {
   siteMetadata: {
-    title: `Novela by Narative`,
-    name: `Narative`,
-    siteUrl: `https://novela.narative.co`,
+    /**
+     * CONFIG FILE
+     * 
+     * Change here values that will be used 
+     * during the build of the website.
+     */
+    title: `Léonie Salawa`,
+    name: `Léonie Salawa`,
+    siteUrl: `https://www.leoniesalawa.me`,
     description: `This is my description that will be used in the meta tags and important for search results`,
     hero: {
-      heading: `Welcome to Novela, the simplest way to start publishing with Gatsby.`,
+      heading: `Welcome to ...`, //I dunno yet
       maxWidth: 652,
     },
     social: [
       {
         name: `twitter`,
-        url: `https://twitter.com/narative`,
+        url: `https://twitter.com/LeonieSalawa`,
       },
       {
         name: `github`,
-        url: `https://github.com/narative`,
+        url: `https://github.com/LeonieSalawa`,
       },
       {
         name: `instagram`,
-        url: `https://instagram.com/narative.co`,
+        url: `https://instagram.com/LeonieSalawa`,
       },
       {
         name: `linkedin`,
-        url: `https://www.linkedin.com/company/narative/`,
-      },
-      {
-        name: `dribbble`,
-        url: `https://dribbble.com/narativestudio`,
-      },
+        url: `https://www.linkedin.com/LéonieSalawa/`,
+      }
     ],
   },
+  /** 
+   * STOP
+   * Next values are plugins which
+   * are intend to extend functionalities
+   */
   plugins: [
     {
       resolve: "@narative/gatsby-theme-novela",
