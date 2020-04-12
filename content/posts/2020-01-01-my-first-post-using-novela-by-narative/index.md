@@ -1,9 +1,9 @@
 ---
-title: Hey I'm testing things here! 
+title: Un Medium Multilingue
 author: Léonie Salawa
-date: 2019-04-30
-hero: ./images/hero.jpg
-excerpt: With the growing community interest in Gatsby, we hope to create more resources that make it easier for anyone to grasp the power of this incredible tool.
+date: 2020-04-07
+hero: ./images/raphael-schaller-GkinCd2enIY-unsplash.jpg
+excerpt: S'adresser à quelqu'un dans sa langue maternelle, c'est parler à son cœur.
 ---
 
 My first post using `@narative/gatsby-theme-novela`. Novela is built by the team at [Narative](https://narative.co), and built for everyone that loves the web.
