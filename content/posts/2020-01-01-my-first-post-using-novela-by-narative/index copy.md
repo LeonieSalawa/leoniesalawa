@@ -6,8 +6,7 @@ hero: ./images/raphael-schaller-GkinCd2enIY-unsplash.jpg
 excerpt: S'adresser à quelqu'un dans sa langue maternelle, c'est parler à son cœur.
 ---
 
-À l'attention de Medium,
-
+My first post using `@narative/gatsby-theme-novela`. Novela is built by the team at [Narative](https://narative.co), and built for everyone that loves the web.
 
 ## Headers
 
