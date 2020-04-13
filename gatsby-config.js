@@ -9,9 +9,9 @@ module.exports = {
     title: `Léonie Salawa`,
     name: `Léonie Salawa`,
     siteUrl: `https://www.leoniesalawa.me`,
-    description: `This is my description that will be used in the meta tags and important for search results`,
+    description: `from Design to Code through Law & Yoga | Writer | Poet | Avid Reader | I am the Dreamer, Lover of Words, Creator of Worlds, fully awakening to my Personal Legend one word at a time.`,
     hero: {
-      heading: `Welcome to ...`, //I dunno yet
+      heading: `Welcome to my Words`,
       maxWidth: 652,
     },
     social: [
@@ -30,6 +30,10 @@ module.exports = {
       {
         name: `linkedin`,
         url: `https://www.linkedin.com/LéonieSalawa/`,
+      }
+      {
+        name: `stackoverflow`,
+        url: `https://stackoverflow.com/story/leonie`,
       }
     ],
   },
