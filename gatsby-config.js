@@ -31,10 +31,6 @@ module.exports = {
         name: `linkedin`,
         url: `https://www.linkedin.com/LéonieSalawa/`,
       }
-      {
-        name: `stackoverflow`,
-        url: `https://stackoverflow.com/story/leonie`,
-      }
     ],
   },
   /** 
