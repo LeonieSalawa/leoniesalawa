@@ -1,9 +1,9 @@
 ---
-title: Un Medium Multilingue
+title: Le Bonheur... un Choix.
 author: Léonie Salawa
-date: 2020-04-07
-hero: ./images/raphael-schaller-GkinCd2enIY-unsplash.jpg
-excerpt: S'adresser à quelqu'un dans sa langue maternelle, c'est parler à son cœur.
+date: 2020-03-19
+hero: ./images/image1.jpg
+excerpt: Es-tu Heureux?
 ---
 
 À l'attention de Medium,
