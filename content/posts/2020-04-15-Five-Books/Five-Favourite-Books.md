@@ -108,7 +108,7 @@ Quant à Verlaine, tout est déjà dit. Je meurs simplement d’amour pour ses m
 
 ---
 
-<i>Si ces quelques lignes vous ont plu, n’hésitez pas à me lire également sur [Medium](https://medium.com/@LeonieSalawa) ou sur [Quora](https://fr.quora.com/Léonie-Salawa). Merci pour votre attention.
+Si ces quelques lignes vous ont plu, n’hésitez pas à me lire également sur [Medium](https://medium.com/@LeonieSalawa) ou sur [Quora](https://fr.quora.com/Léonie-Salawa). Merci pour votre attention.
 
-À Maman. Merci pour mes mots. Je t’Aime.</i>
+À Maman. Merci pour mes mots. Je t’Aime.
 
