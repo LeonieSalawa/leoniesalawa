@@ -6,13 +6,15 @@ hero: ./images/hush-naidoo-2cdzDZ90M90-unsplash.jpg
 excerpt: Mes cinq romans préférés?
 ---
 
-Maman m’a insufflé l’amour des mots dès ma plus tendre enfance. Elle nous lisait des contes tous les soirs afin que nous nous endormions. Ce sont des souvenirs tendres et tout simplement merveilleux. Elle était même capable de nous inventer des aventures extraordinaires qui nous tenaient en haleine de bout en bout. Ces histoires qui ont nourri mon imagination.
+Maman m’a insufflé l’amour des mots dès ma plus tendre enfance. Elle nous lisait des contes tous les soirs afin que nous nous endormions. Ce sont des souvenirs tendres et tout simplement merveilleux. Elle était même capable d'inventer des aventures extraordinaires qui nous tenaient en haleine de bout en bout. Ces histoires ont nourri ma créativité et mon imagination.
 
-Une fois que j’ai été en mesure de lire seule, ce fut la cavalcade car j’ai réalisé très vite que je n’aurai pas assez d’une vie pour lire tout ce que mon cœur désirait. En effet, il y avait déjà tant de livres extraordinaires et incontournables quand j’ai commencé à m’y intéresser il y a… un quart de siècle ! Je prenais douloureusement conscience du fait que chaque seconde passée signifiait des mots perdus à mes yeux, envolés. Oui, à chaque seconde qui passe, un nouvel auteur achève un nouvel ouvrage, un nouveau chef d’œuvre digne que l’on s’y intéresse. Fatalement, chaque seconde “perdue” signifie également moins de temps pour parcourir et dévorer ce catalogue galopant.
-J’ai fini par en faire le deuil et tenté, tant bien que mal, de faire le meilleur usage possible de mon temps soit limité sur cette terre d’apprentissage. Le désenchantement a très vite laissé place à l’émerveillement.
+Une fois que j’ai été en mesure de lire seule, ce fut la cavalcade car j’ai rapidement réalisé que je n’aurai pas assez d’une vie pour absorber tout ce que mon cœur désirait. En effet, il y avait déjà tant de livres extraordinaires et incontournables quand j’ai commencé à m’y intéresser il y a… un quart de siècle ! Je prenais douloureusement conscience du fait que chaque seconde passée signifiait des mots perdus à mes yeux, envolés. Oui, à chaque seconde qui passe, un nouvel auteur achève un nouvel ouvrage, un nouveau chef d’œuvre digne que l’on s’y intéresse. Fatalement, chaque seconde “perdue” signifie également moins de temps pour parcourir et dévorer ce catalogue galopant.
+
+J’ai fini par en faire le deuil et tenté, tant bien que mal, de faire le meilleur usage possible de mon temps limité sur cette terre d’apprentissage. Le désenchantement a très vite laissé place à l’émerveillement.
+
 Cinq livres, dites-vous ? Voyons voir.
 
-## •	« La bibliothécaire » , par Gudule
+## « La bibliothécaire », par Gudule
 
 Extraordinaire. Serait-ce là le roman qui a contribué à ma rigueur linguistique, ainsi qu’à mon amour démesuré de la syntaxe ? L’orthographe m’apparaît comme une pure poésie et la grammaire une majestueuse symphonie. Mes yeux se délectent en parcourant ces pages noircies de mots dansant au rythme délicieux de phrases impeccablement ponctuées. Pourtant, c’est sur le fond que Gudule m’a conquise.
 
@@ -23,7 +25,7 @@ Je l’ai lu il y a si longtemps et il demeure pourtant dans un coin de ma tête
 La façon dont on (se) formule a des conséquences parfois (in)imaginables.
 Vous ne trouvez pas ?
  
-## •	« Le Petit Prince » , par Antoine de Saint-Exupéry
+## « Le Petit Prince », par Antoine de Saint-Exupéry
 
 C’est le premier ouvrage à propos duquel j’ai entendu dire qu’il fallait le lire plusieurs fois dans une vie. Tous les sept ans apparemment. Ce que je n’ai pas fait, bien entendu. Ce n’était pourtant pas faute de le voir. La vie m’a fait faux bond, c’est tout. Je n’ai pas eu l’occasion, cela arrive. J’ai tout de même eu la chance de tomber sur un passage récemment, mon passage préféré, lu par mon premier professeur de yoga, également mon professeur d’anthropologie du droit. Cette série de coïncidences est si étrange que cela devait être écrit, quelque part.
 
@@ -34,9 +36,9 @@ Il s’agit du passage où le renard explique au Petit Prince qu’ils ne sont e
 Il y a une douce violence dans la beauté de ces mots. Ils me poursuivent et hantent mon cœur depuis des décennies (oui, bon, deux décennies). L’implacable vérité qui s’en dégage a transpercé mon âme. C’est d’une telle évidence et pourtant le dire demeure percutant. C’est presque blessant.
 Qu’en pensez-vous ?
  
-## •	« Le Portrait de Dorian Gray » , par Oscar Wilde
+## « Le Portrait de Dorian Gray », par Oscar Wilde
 
-Horreur et Dame Nation *. Aujourd’hui indéniable adepte de la version originale, j’ai pourtant lu cet incontournable en… français. À ma décharge, j’avais quatorze ans. Peut-être n’aurais-je simplement pas du avoir cet ouvrage entre les mains ? Débat stérile, au point où nous en sommes. S’il échet, le mal est fait.
+Horreur et Dame Nation*. Aujourd’hui indéniable adepte de la version originale, j’ai pourtant lu cet incontournable en… français. À ma décharge, j’avais quatorze ans. Peut-être n’aurais-je simplement pas du avoir cet ouvrage entre les mains ? Débat stérile, au point où nous en sommes. S’il échet, le mal est fait.
 
 So Wilde, what did you do to me? Ce roman a indéniablement corrompu ou à tout le moins irrévocablement altéré ma vision du monde, de la beauté, de la luxure et du vice. Dorian, joli Dandy. Que dis-je, superbe étalon, incomparable et visiblement indomptable. Insoumis même face au temps qui s’égraine pourtant inexorablement pour le commun des mortels.
 
@@ -48,7 +50,7 @@ C’est alors que tout bascule. Dorian demeurera jeune et beau alors que tous se
 
 Quelle est votre vision de la beauté ? De quelle façon a-t-elle influencé votre vision du monde ? Y pensez-vous, parfois ?
  
-## •	« L’Alchimiste » , de Paulo Coelho
+## « L’Alchimiste », de Paulo Coelho
 
 Bien que l’Alchimiste ait été écrit en portugais, je l’ai lu en français. Je n’ai pas le temps d’attendre d’apprendre le portugais et, pour une fois, il me semble que la traduction est quasiment littérale. Je dois avouer que j’ai vérifié pour certains passages clés que je trouvais particulièrement beaux. Comme le Petit Prince, c’est l’un des rares romans que j’ai relu et je le recommande absolument.
 
@@ -60,7 +62,7 @@ De nombreux passages m’ont touchée et émue, faisant vibrer la corde sensible
 
 Vous rappelez-vous de votre Légende Personnelle ? Ce rêve évident que vous nourrissiez étant enfant ?
  
-## •	Un recueil de poèmes de Paul Verlaine
+## Un recueil de poèmes de Paul Verlaine
 
 Je l’ai eu, je ne l’ai plus et je ne parviens pas à me rappeler du titre exact de l’ouvrage ou du recueil dans lequel j’ai lu pour la première fois « Il pleure dans mon cœur ». Ce fut ma première rencontre avec le spleen dans lequel je me suis lancée à corps perdu. Ce style, la lassitude et la mélancolie qui en émanent, une certaine fatalité aussi… auront tôt fait de laisser une impression durable sur ma jeune personne. L’adulte que je suis devenue en porte encore les marques mais avec une douceur intense, teintée de compassion.
 
