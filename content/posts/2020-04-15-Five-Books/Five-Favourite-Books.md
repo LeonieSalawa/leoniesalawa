@@ -6,8 +6,8 @@ hero: ./images/hush-naidoo-2cdzDZ90M90-unsplash.jpg
 excerpt: Mes cinq romans préférés?
 ---
 
->Podcast disponible sur Anchor (https://anchor.fm/literarycurly/episodes/Cinq-Livres-pour-une-ternit-edcjo8) et Spotify
- (https://open.spotify.com/episode/0Zwt6ddou9Kf7TeIdv09hN)À l'attention de ceux qui aiment écouter de belles histoires
+Podcast disponible sur [Anchor](https://anchor.fm/literarycurly/episodes/Cinq-Livres-pour-une-ternit-edcjo8) et [Spotify](https://open.spotify.com/episode/0Zwt6ddou9Kf7TeIdv09hN)
+À l'attention de ceux qui aiment écouter de belles histoires
 
 *Maman m’a insufflé l’amour des mots dès ma plus tendre enfance. Et pour cause, elle nous lisait des contes tous les soirs afin que nous nous endormions. Ce sont des souvenirs tendres et tout simplement merveilleux. Elle était même capable de nous inventer des aventures extraordinaires qui nous tenaient en haleine de bout en bout. Ces histoires ont nourri mon imagination.*
 
@@ -34,25 +34,25 @@ Vous ne trouvez pas ?
 
 Il s’agit du passage où le renard explique au Petit Prince qu’ils ne sont encore que deux étrangers, deux inconnus, qu’ils ne sont encore rien l’un pour l’autre car il ne l’a pas apprivoisé. Je paraphrase. Les mots qui m’ont marquée sont les suivants :
 
->*« [Apprivoiser] signifie créer des liens. […] Tu n’es encore pour moi qu'un petit garçon tout semblable à cent mille petits garçons. Et je n’ai pas besoin de toi. Et tu n’as pas besoin de moi non plus. Je ne suis pour toi qu’un renard semblable à cent mille renards. Mais, si tu m'apprivoises, nous aurons besoin l’un de l'autre. Tu seras pour moi unique au monde. Je serai pour toi unique au monde... ».*
+*« [Apprivoiser] signifie créer des liens. […] Tu n’es encore pour moi qu'un petit garçon tout semblable à cent mille petits garçons. Et je n’ai pas besoin de toi. Et tu n’as pas besoin de moi non plus. Je ne suis pour toi qu’un renard semblable à cent mille renards. Mais, si tu m'apprivoises, nous aurons besoin l’un de l'autre. Tu seras pour moi unique au monde. Je serai pour toi unique au monde... ».*
 
 Il y a une douce violence dans la beauté de ces mots. Ils me poursuivent et hantent mon cœur depuis des décennies (oui, bon, deux décennies c’est déjà pas mal). L’implacable vérité qui s’en dégage a transpercé mon âme. C’est d’une telle évidence et pourtant le (re)lire n’en demeure pas moins percutant. C’est presque blessant. L’acte même de s’attacher à quelqu’un implique une déchirure au moment inévitable de la séparation. Pourtant, à l’instar du renard qui insiste pour être apprivoisé, l’être humain, suivant son cœur, s’évertue à créer des liens qui peuvent douloureusement l’affecter.
 
 Comment pourrais-je alors me considérer comme une romantique digne de ce nom sans ne fut-ce que mentionner la réponse du Petit Prince ?
 
->*« Je commence à comprendre, dit le petit prince. Il y a une fleur... je crois qu'elle m'a apprivoisé… ».*
+*« Je commence à comprendre, dit le petit prince. Il y a une fleur... je crois qu'elle m'a apprivoisé… ».*
 
 Je brûle de m’attarder sur ces mots mais est-ce réellement nécessaire ? Le Petit Prince n’en dit pas davantage non plus, comme si l’on pouvait en tirer implicitement toutes les conclusions qui s’imposent. Je fonds face à cet aveu empreint de vulnérabilité. Qu’y a-t-il de plus irrésistible qu’un homme qui expose le fond de son âme et livre ainsi sincèrement sa pensée ? Je dis un homme, bien que le Petit Prince semble être un enfant. N’est-ce toutefois pas là le propre de la vulnérabilité ? Cette capacité de se mettre à nu en révélant ce que l’on a de plus précieux et sincère : son âme d’enfant. Quel être ne rêverait pas de pouvoir être vrai face à un autre qui l’accepterait tout entier ? Mon cœur s’emballe à l’idée d’une telle éventualité.
 
 Nos deux étrangers poursuivent leur discussion. Le renard désire ardemment se faire un ami et insiste en ce sens :
 
->« Si tu m’apprivoises, ma vie sera comme ensoleillée. Je connaîtrai un bruit de pas qui sera différent de tous les autres. Les autres pas me font rentrer sous terre. Le tien m’appellera hors du terrier, comme une musique. Et puis regarde ! Tu vois, là-bas, les champs de blé ? Je ne mange pas de pain. Le blé pour moi est inutile. Les champs de blé ne me rappellent rien. Et ça, c'est triste ! Mais tu as des cheveux couleur d’or. Alors ce sera merveilleux quand tu m’auras apprivoisé ! Le blé, qui est doré, me fera souvenir de toi. Et j’aimerai le bruit du vent dans le blé... ».
+« Si tu m’apprivoises, ma vie sera comme ensoleillée. Je connaîtrai un bruit de pas qui sera différent de tous les autres. Les autres pas me font rentrer sous terre. Le tien m’appellera hors du terrier, comme une musique. Et puis regarde ! Tu vois, là-bas, les champs de blé ? Je ne mange pas de pain. Le blé pour moi est inutile. Les champs de blé ne me rappellent rien. Et ça, c'est triste ! Mais tu as des cheveux couleur d’or. Alors ce sera merveilleux quand tu m’auras apprivoisé ! Le blé, qui est doré, me fera souvenir de toi. Et j’aimerai le bruit du vent dans le blé... ».
 
 J’ai également un faible pour ce dernier passage. J’ignore pourquoi cette analogie m’émeut à ce point, le fait de reconnaître un être aimé dans la couleur d’un champ de blé que le vent fait danser. Il y a une telle poésie dans ces mots, je n’ai qu’une envie, me laisser emporter. Je ferme alors les yeux et je me laisse doucement virevolter, papillonnant tendrement d’un épi à l’autre, écoutant amoureusement la sérénade murmurée par le vent.
 
 Affirmant que l’on ne connaît que ce que l’on apprivoise et qu’il n’y a pas de marchand d’ami, le renard pique la curiosité du Petit Prince qui lui demande comment faire :
 
->*« Il faut être très patient, répondit le renard. Tu t’assoiras d'abord un peu loin de moi, comme ça, dans l'herbe. Je te regarderai du coin de l'œil et tu ne diras rien. Le langage est source de malentendus. Mais, chaque jour, tu pourras t’asseoir un peu plus près […] à la même heure […] Si tu viens, par exemple, à quatre heures de l'après-midi, dès trois heures je commencerai d’être heureux. Plus l’heure avancera, plus je me sentirai heureux. A quatre heures, déjà, je m'agiterai et m'inquiéterai ; je découvrirai le prix du bonheur ! Mais si tu viens n'importe quand, je ne saurai jamais à quelle heure m’habiller le cœur... ».*
+*« Il faut être très patient, répondit le renard. Tu t’assoiras d'abord un peu loin de moi, comme ça, dans l'herbe. Je te regarderai du coin de l'œil et tu ne diras rien. Le langage est source de malentendus. Mais, chaque jour, tu pourras t’asseoir un peu plus près […] à la même heure […] Si tu viens, par exemple, à quatre heures de l'après-midi, dès trois heures je commencerai d’être heureux. Plus l’heure avancera, plus je me sentirai heureux. A quatre heures, déjà, je m'agiterai et m'inquiéterai ; je découvrirai le prix du bonheur ! Mais si tu viens n'importe quand, je ne saurai jamais à quelle heure m’habiller le cœur... ».*
 
 N’est-ce pas merveilleux, ce jeu, cette danse, cet échange par-delà les mots ? Malgré mon amour inconditionnel et démesuré du langage, force est de constater qu’il peut effectivement être source de malentendus. Le silence a ceci de fabuleux qu’il permet d’utiliser d’autres langages, tel que celui de l’âme qui passe par le regard.
 
@@ -60,7 +60,7 @@ Et cette dernière expression, emplie de douceur :
 *Savoir à quelle heure (l'on doit) s’habiller le cœur*.
 Je n’en puis plus, je meurs.
 
->(Bonus Audio(https://open.spotify.com/episode/0Zwt6ddou9Kf7TeIdv09hN) à 8'56")
+([Bonus Audio](https://open.spotify.com/episode/0Zwt6ddou9Kf7TeIdv09hN "Spotify") à 8'56")
 
 Le renard clôt alors cette tendre conversation en partageant deux vérités intemporelles avec le Petit Prince. Tout d’abord, *on ne voit bien qu’avec le cœur *car *l’essentiel est invisible pour les yeux*. Ensuite, l’on devient* responsable pour toujours de ce que l’on a apprivoisé*.
 
@@ -96,7 +96,7 @@ Santiago, ce jeune berger auquel je m’identifie désormais terriblement, vaqua
 
 Santiago, perplexe, interroge le roi :
 
->« Pourquoi me dites-vous ces choses ?
+« Pourquoi me dites-vous ces choses ?
 – Parce que tu essaies de vivre ta Légende Personnelle. Et que tu es sur le point d’y renoncer.
 – Et vous apparaissez toujours dans ces moments-là ?
 – Pas toujours sous cette forme mais je n’y ai jamais manqué. (…) Les gens apprennent très tôt leur raison de vivre, dit le vieillard avec, dans les yeux, une certaine amertume. C’est peut-être pour cette raison même qu’ils renoncent aussi très tôt ».
@@ -105,16 +105,16 @@ Il s’en ira alors au bout du monde à la recherche d’un trésor qui se trouv
 
 Au cours de son périple, le jeune berger se verra trahi, découragé, enthousiasmé, charmé et finalement conquis, avant de reparaître en conquérant. Sa plus belle conquête ? Celle d’un cœur, le sien, désormais serein et comblé… ou devrais-je dire entier ? Il n’avait jamais ressenti une telle plénitude, que dis-je, complétude. Celle d’un être jumeau dont l’existence est liée à la sienne et dont le cœur, si tendre, l’apaise même à distance car son absence constitue également une douce présence au sein de sa vie. Celle d’un être dont le premier, voire le seul contact a nourri l’étincelle d’amour qui a embrasé tout son être et réchauffe son cœur à jamais. Celle d’un être, enfin, dans les yeux duquel il a reconnu les siens.
 
->(Bonus Audio à 18'17")
+(Bonus Audio à 18'17")
 
 De nombreux passages m’ont touchée et émue, faisant vibrer la corde sensible de mon être. Si je devais résumer l’histoire en une seule phrase, je dirais que l’« on a toujours la possibilité de faire ce que l’on rêve ». Quel merveilleux rappel. Paulo Coelho nous exhorte à poursuivre nos rêves avec des mots qui ne m'ont pas laissée indifférente, suscitant une profonde réflexion sur mes choix de vie et la direction que je souhaite donner à celle-ci :
 
->« Quand tu veux quelque chose, tout l'Univers conspire 
+« Quand tu veux quelque chose, tout l'Univers conspire 
 à te permettre de réaliser ton désir ».
 
 C'est merveilleux de réaliser à quel point il a raison. De nombreux événements dans ma vie récente m'ont permis d'appréhender différemment ses mots, formalisant ce que je venais d'apprendre et de vivre intuitivement. Ne dit-on pas également que le maître apparaît lorsque l'élève est prêt?
 
->« Il n'y a qu'une chose qui puisse rendre un rêve impossible : 
+« Il n'y a qu'une chose qui puisse rendre un rêve impossible : 
 c'est la peur d'échouer ».
 
 Évidemment, c'est humain d'avoir peur, de craindre l'échec et les revers. Nos inquiétudes ne s'envolent pas soudainement parce que l'on veut quelque chose de tout son cœur. N'est-ce pourtant pas ce risque inhérent à toute *entreprise* qui fait que le jeu en vaut la chandelle ? C'est là que réside la différence entre une rêverie passagère et l'irrésistible destin que l'on brûle d'accomplir.
