@@ -60,7 +60,7 @@ Et cette dernière expression, emplie de douceur :
 *Savoir à quelle heure (l'on doit) s’habiller le cœur*.
 Je n’en puis plus, je meurs.
 
->(Bonus Audio(https://open.spotify.com/episode/0Zwt6ddou9Kf7TeIdv09hN))
+>(Bonus Audio(https://open.spotify.com/episode/0Zwt6ddou9Kf7TeIdv09hN) à 8'56")
 
 Le renard clôt alors cette tendre conversation en partageant deux vérités intemporelles avec le Petit Prince. Tout d’abord, *on ne voit bien qu’avec le cœur *car *l’essentiel est invisible pour les yeux*. Ensuite, l’on devient* responsable pour toujours de ce que l’on a apprivoisé*.
 
@@ -105,7 +105,7 @@ Il s’en ira alors au bout du monde à la recherche d’un trésor qui se trouv
 
 Au cours de son périple, le jeune berger se verra trahi, découragé, enthousiasmé, charmé et finalement conquis, avant de reparaître en conquérant. Sa plus belle conquête ? Celle d’un cœur, le sien, désormais serein et comblé… ou devrais-je dire entier ? Il n’avait jamais ressenti une telle plénitude, que dis-je, complétude. Celle d’un être jumeau dont l’existence est liée à la sienne et dont le cœur, si tendre, l’apaise même à distance car son absence constitue également une douce présence au sein de sa vie. Celle d’un être dont le premier, voire le seul contact a nourri l’étincelle d’amour qui a embrasé tout son être et réchauffe son cœur à jamais. Celle d’un être, enfin, dans les yeux duquel il a reconnu les siens.
 
->(Bonus Audio)
+>(Bonus Audio à 18'17")
 
 De nombreux passages m’ont touchée et émue, faisant vibrer la corde sensible de mon être. Si je devais résumer l’histoire en une seule phrase, je dirais que l’« on a toujours la possibilité de faire ce que l’on rêve ». Quel merveilleux rappel. Paulo Coelho nous exhorte à poursuivre nos rêves avec des mots qui ne m'ont pas laissée indifférente, suscitant une profonde réflexion sur mes choix de vie et la direction que je souhaite donner à celle-ci :
 
