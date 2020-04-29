@@ -6,7 +6,7 @@ hero: ./images/hush-naidoo-2cdzDZ90M90-unsplash.jpg
 excerpt: Mes cinq romans préférés?
 ---
 
-Podcast disponible sur [Anchor](https://anchor.fm/literarycurly/episodes/Cinq-Livres-pour-une-ternit-edcjo8) et [Spotify](https://open.spotify.com/episode/0Zwt6ddou9Kf7TeIdv09hN)
+Podcast disponible sur [Anchor](https://anchor.fm/literarycurly/episodes/Cinq-Livres-pour-une-ternit-edcjo8) et [Spotify](https://open.spotify.com/episode/0Zwt6ddou9Kf7TeIdv09hN) 
 À l'attention de ceux qui aiment écouter de belles histoires
 
 *Maman m’a insufflé l’amour des mots dès ma plus tendre enfance. Et pour cause, elle nous lisait des contes tous les soirs afin que nous nous endormions. Ce sont des souvenirs tendres et tout simplement merveilleux. Elle était même capable de nous inventer des aventures extraordinaires qui nous tenaient en haleine de bout en bout. Ces histoires ont nourri mon imagination.*
@@ -17,7 +17,7 @@ Podcast disponible sur [Anchor](https://anchor.fm/literarycurly/episodes/Cinq-Li
 
 Cinq livres, dites-vous ? Voyons voir.
 
-## « La bibliothécaire », de Gudule
+### « La bibliothécaire », de Gudule
 
 Je me dois de commencer par « La Bibliothécaire », de Gudule. Je n’ai qu’un mot pour le décrire : *extraordinaire*. Serait-ce là le roman qui a contribué à ma rigueur linguistique, ainsi qu’à mon amour démesuré de la syntaxe ? L’orthographe m’apparaît comme une pure poésie et la grammaire une majestueuse symphonie. Mes yeux se délectent en parcourant ces pages noircies de mots dansant au rythme délicieux de phrases impeccablement ponctuées. Pourtant, c’est sur le fond que Gudule m’a conquise.
 
@@ -28,7 +28,7 @@ Je l’ai lu il y a si longtemps et il demeure encore dans un coin de ma tête, 
 La façon dont on (se) formule a des conséquences parfois (in)imaginables.
 Vous ne trouvez pas ?
  
-## « Le Petit Prince », d'Antoine de Saint-Exupéry
+### « Le Petit Prince », d'Antoine de Saint-Exupéry
 
 « Le Petit Prince », d’Antoine de Saint-Exupéry, est le premier ouvrage à propos duquel j’ai entendu dire qu’il fallait le lire plusieurs fois dans une vie. Tous les sept ans, apparemment. Ce que je n’ai pas fait, bien entendu. Ce n’était pourtant pas faute de le vouloir. La vie m’a fait faux bond, c’est tout. Je n’ai pas eu l’occasion, cela arrive. J’ai tout de même eu la chance de tomber sur un passage récemment, mon passage préféré, lu par mon premier professeur de yoga, également mon professeur d’anthropologie du droit. Cette série de coïncidences (dont je vous parlerai volontiers dans un autre article) est si étrange que cela devait être écrit, quelque part.
 
@@ -68,7 +68,7 @@ C’est avec beaucoup de tendresse que j’évoque cet ouvrage et que je me livr
 
 Qu’en dites-vous ?
 
-## « Le Portrait de Dorian Gray », d'Oscar Wilde
+### « Le Portrait de Dorian Gray », d'Oscar Wilde
 
 J’en arrive à présent à cet ouvrage hors pair qu’est « Le Portrait de Dorian Gray », écrit par Oscar Wilde.
 
@@ -86,13 +86,13 @@ La superficialité et la vanité de Dorian se heurtent absolument à la profonde
 
 Quelle est votre vision de la beauté ? De quelle façon a-t-elle influencé votre vision du monde ? Y pensez-vous, parfois ?
  
-## « L’Alchimiste », de Paulo Coelho
+### « L’Alchimiste », de Paulo Coelho
 
 Bien que Paulo Coelho ait écrit « L’Alchimiste » en portugais, je l’ai lu en français. Vous le savez à présent, j’aime lire dans la langue de l’auteur mais je n’ai hélas pas le temps d’attendre d’apprendre le portugais et, pour une fois, il me semble que la traduction est quasiment littérale. Je dois admettre que j’ai pris le temps de vérifier pour certains passages clés que je trouvais particulièrement beaux. À l’instar du Petit Prince, c’est l’un des rares romans que j’ai relu et je le recommande absolument.
 
 Santiago, ce jeune berger auquel je m’identifie désormais terriblement, vaquait tranquillement à sa vie et à ses occupations de berger avant de rencontrer un roi qui le mettra sur la voie de sa Légende Personnelle, ce que qu’il a « toujours souhaité faire ». En effet :
 
->« Chacun de nous, en sa prime jeunesse, sait quelle est sa Légende Personnelle. À cette époque de la vie, tout est clair, tout est possible, et l’on n’a pas peur de rêver et de souhaiter tout ce qu’on aimerait faire de sa vie ».
+« Chacun de nous, en sa prime jeunesse, sait quelle est sa Légende Personnelle. À cette époque de la vie, tout est clair, tout est possible, et l’on n’a pas peur de rêver et de souhaiter tout ce qu’on aimerait faire de sa vie ».
 
 Santiago, perplexe, interroge le roi :
 
@@ -124,7 +124,7 @@ Encore un roman à lire et à relire tout au long de sa vie.
 Vous rappelez-vous de votre Légende Personnelle ? 
 Ce rêve évident que vous nourrissiez étant enfant ?
  
-## Un recueil de poèmes de Paul Verlaine
+### Un recueil de poèmes de Paul Verlaine
 
 Je l’ai eu, je ne l’ai plus et je ne parviens pas à me rappeler du titre exact de l’ouvrage ou du recueil dans lequel j’ai lu pour la première fois «** **Il pleure dans mon cœur ». Ce fut ma première rencontre avec le spleen dans lequel je me suis lancée à corps perdu. Ce style, la lassitude et la mélancolie qui en émanent, une certaine fatalité aussi… auront tôt fait de laisser une impression durable sur ma jeune personne. L’adulte que je suis devenue en porte encore les marques mais avec une douceur intense, teintée de compassion.
 
@@ -154,7 +154,7 @@ Suite à cette lecture, il est possible que vous compreniez mon émoi. S’il ne
 
 J’ai été attirée par ce thème et par ce poème en particulier car il a mis des mots sur mes émotions sans toutefois réellement les expliquer, ni les démystifier. À son tour, généreusement, le poème m’a inspirée. J'ai fini par en écrire qui lui ressemblaient, tant sa triste beauté m'a subjuguée. À vrai dire, ce n'était qu'un commencement car il me subjugue encore, bien que différemment aujourd'hui.
  
-## Conclusions
+### Conclusions
 
 Que dire de tout ceci ?
 
